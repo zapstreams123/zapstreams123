@@ -1,11 +1,5 @@
-👋 Hi, I’m MLRTAKEN
+Hello, i am MLRTAKEN. you can text me on discord: @mlrtaken, @ttvliltaken_
 
-👀 I’m interested in programming and game development
+My favorite programming languages are: C++, Python, Javascript and Lua.
 
-🌱 Currently learning C++
-
-📫 Reach me on Discord: @mlrtaken
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I got into programming because I used to use exploit scripts on Roblox. That curiosity led me to learn how to make my own, and I've been learning more ever since.
+Highly inactive on Github but if you have any questions or suggestions on any of my projects, text me on discord.
